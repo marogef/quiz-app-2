@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("/Users/none/Documents/projects/_repos/quiz-application/veggies.jpg");
+}
